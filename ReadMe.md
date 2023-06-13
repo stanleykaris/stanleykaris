@@ -12,6 +12,8 @@ I am a junior developer.<br>🔭 I’m currently working on a toll payment appli
 ![](https://github-readme-streak-stats.herokuapp.com/?user=trapper99&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=trapper99&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<a href="https://app.daily.dev/stanleykariuki"><img src="https://api.daily.dev/devcards/f1c3d7d93ea742a7a46246d8cdbdfb49.png?r=z5o" width="400" alt="Stanley Kariuki's Dev Card"/></a>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=trapper99&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
