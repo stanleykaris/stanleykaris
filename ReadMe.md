@@ -23,4 +23,6 @@
 
 <a href="https://app.daily.dev/stanleykariuki"><img src="https://api.daily.dev/devcards/f1c3d7d93ea742a7a46246d8cdbdfb49.png?r=z5o" width="400" alt="Stanley Kariuki's Dev Card"/></a>
 
+![Snake animation](https://github.com/treapper99/trapper99/blob/output/github-contribution-grid-snake.svg) https://blog.arnabghosh.me/add-github-dark-snake-animation-readme
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
