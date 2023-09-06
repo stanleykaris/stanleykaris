@@ -1,5 +1,5 @@
 # 💫 About Me:
- I am a junior developer.<br>🔭 I’m currently working on a toll payment application.<br>👯 I’m looking to collaborate on open-source projects.<br>🌱 I’m currently learning python, JavaScript, java and rust.
+ I am a Software Engineer.<br>🔭 I’m currently working on a toll payment application.<br>👯 I’m looking to collaborate on open-source projects.<br>🌱 I’m currently learning python, JavaScript, java and rust.
 
 
 # 💻 Tech Stack:
