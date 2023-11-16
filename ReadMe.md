@@ -27,3 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trapper99&show_icons=true&locale=en" alt="trapper99" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=trapper99&" alt="trapper99" /></p>
+
+<a href="https://app.daily.dev/stanleykariuki"><img src="https://api.daily.dev/devcards/f1c3d7d93ea742a7a46246d8cdbdfb49.png?r=gmk" width="400" alt="Stanley Kariuki's Dev Card"/></a>
