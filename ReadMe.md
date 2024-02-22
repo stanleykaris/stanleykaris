@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Stanley Kariuki</h1>
-<h3 align="center">A Software Engineer and A DevOps engineer(AWS, Azure)</h3>
+<h3 align="center">A FullStack Engineer and A DevOps engineer(AWS, Azure)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trapper99&label=Profile%20views&color=0e75b6&style=flat" alt="trapper99" /> </p>
 
