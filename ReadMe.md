@@ -2,8 +2,6 @@
 <h3 align="center">A FullStack Engineer and A DevOps engineer(AWS, Azure)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=trapper99&label=Profile%20views&color=0e75b6&style=flat" alt="trapper99" /> </p>
-[![autocomplete](https://codeium.com/badges/user/earthly-exact-tenpounder-51012/autocomplete)](https://codeium.com/profile/earthly-exact-tenpounder-51012) 
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trapper99" alt="trapper99" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/stanleykirigo" target="blank"><img src="https://img.shields.io/twitter/follow/stanleykirigo?logo=twitter&style=for-the-badge" alt="stanleykirigo" /></a> </p>
