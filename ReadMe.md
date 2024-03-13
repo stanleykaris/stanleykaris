@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Stanley Kariuki</h1>
 <h3 align="center">A FullStack Engineer and A DevOps engineer(AWS, Azure)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=trapper99&label=Profile%20views&color=0e75b6&style=flat" alt="trapper99" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=trapper99&label=Profile%20views&color=0e75b6&style=flat" alt="trapper99" />  [![autocomplete](https://codeium.com/badges/user/earthly-exact-tenpounder-51012/autocomplete)](https://codeium.com/profile/earthly-exact-tenpounder-51012) </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trapper99" alt="trapper99" /></a> </p>
 
@@ -18,7 +18,7 @@
 <a href="https://twitter.com/stanleykirigo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="stanleykirigo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/stanley kariuki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stanley kariuki" height="30" width="40" /></a>
 
-  [![autocomplete](https://codeium.com/badges/user/earthly-exact-tenpounder-51012/autocomplete)](https://codeium.com/profile/earthly-exact-tenpounder-51012)
+ 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
