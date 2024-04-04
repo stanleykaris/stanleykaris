@@ -12,6 +12,8 @@
 
 - 📫 How to reach me **stanleykariuki1999@gmail.com**
 
+<a href="https://developers.google.com/profile/badges/events/io/2024/registered" target="blank"></a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/stanleykirigo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="stanleykirigo" height="30" width="40" /></a>
