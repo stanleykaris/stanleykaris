@@ -27,6 +27,8 @@
 
 ## 🐙 Github Stats:
 
+<h3 align="left">My Stats: </h3>
+
 [![trapper99's GitHub | Stats](https://stats.quine.sh/trapper99/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=trapper99)
 
 [![trapper99's GitHub | Languages](https://stats.quine.sh/trapper99/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=trapper99)
