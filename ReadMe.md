@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Stanley Kariuki</h1>
 <h3 align="center">A Software Engineer and A DevOps engineer(AWS, Azure)</h3>
 <p align="center"><img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="gif" width="33%" /></p>
-
+---
 <p align="left" width="100%"> <img src="https://komarev.com/ghpvc/?username=trapper99&label=Profile%20views&color=0e75b6&style=flat" alt="trapper99" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trapper99" alt="trapper99" /></a> </p>
 
----
+
 <p align="left"> <a href="https://twitter.com/stanleykirigo" target="blank"><img src="https://img.shields.io/twitter/follow/stanleykirigo?logo=twitter&style=for-the-badge" alt="stanleykirigo" /></a> </p>
 
 - 🔭 I’m currently working on **Toll application**
