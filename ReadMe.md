@@ -40,7 +40,7 @@
 </ul>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,vue,nextjs,flutter,ionic,redux,tailwind,materialui">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,vue,nextjs,flutter,redux,tailwind,materialui">
   </a>
 </p>
 <ul>
