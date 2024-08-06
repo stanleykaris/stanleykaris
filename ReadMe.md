@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trapper99" alt="trapper99" /></a> </p>
 
-
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <p align="left"> <a href="https://twitter.com/stanleykirigo" target="blank"><img src="https://img.shields.io/twitter/follow/stanleykirigo?logo=twitter&style=for-the-badge" alt="stanleykirigo" /></a> </p>
 
 - 🔭 I’m currently working on **Toll application**
