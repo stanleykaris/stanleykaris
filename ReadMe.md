@@ -64,7 +64,7 @@
 </ul>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,github_actions,docker,figma,xd,idea,vscode,postman,linux, kubernetes">
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,figma,xd,idea,vscode,postman,linux, kubernetes">
   </a>
 </p>
 <br>
