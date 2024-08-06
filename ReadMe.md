@@ -32,7 +32,7 @@
 </ul>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,py,spring,flask,fastapi,express,nestjs">
+    <img src="https://skillicons.dev/icons?i=rust,golang,java,nodejs,py,spring,flask,fastapi,express,nestjs">
   </a>
 </p>
 <ul>
@@ -48,7 +48,7 @@
 </ul>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,dynamodb">
   </a>
 </p>
 <ul>
@@ -56,7 +56,7 @@
 </ul>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase,cloudflare">
+    <img src="https://skillicons.dev/icons?i=azure,aws,firebase,cloudflare">
   </a>
 </p>
 <ul>
@@ -64,7 +64,7 @@
 </ul>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux">
+    <img src="https://skillicons.dev/icons?i=git,github,github_actions,docker,figma,xd,idea,vscode,postman,linux, kubernetes">
   </a>
 </p>
 <br>
