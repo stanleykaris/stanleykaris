@@ -34,4 +34,3 @@
 </p>
 
 [![trapper99's GitHub | Languages](https://stats.quine.sh/trapper99/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=trapper99)
-<a href="https://app.daily.dev/stanleykariuki"><img src="https://api.daily.dev/devcards/f1c3d7d93ea742a7a46246d8cdbdfb49.png?r=gmk" width="400" alt="Stanley Kariuki's Dev Card"/></a>
