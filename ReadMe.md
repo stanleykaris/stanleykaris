@@ -79,3 +79,9 @@
 </p>
 
 [![trapper99's GitHub | Languages](https://stats.quine.sh/trapper99/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=trapper99)
+
+---
+
+<h3 align="left">Activity:</h3>
+<p><img src="https://github-readme-activity-graph.vercel.app/graph?username=trapper99&amp;custom_title=Stanley's%20GitHub%20Activity%20Graph&amp;bg_color=0D1117&amp;color=7F3FBF&amp;line=7F3FBF&amp;point=7F3FBF&amp;area_color=FFFFFF&amp;title_color=FFFFFF&amp;area=true" alt="Stanley's Graph">
+<br><br></p>
