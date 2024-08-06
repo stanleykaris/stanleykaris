@@ -40,7 +40,7 @@
 </ul>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,vue,nextjs,redux,tailwind,materialui">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,vue,nextjs,flutter,ionic,redux,tailwind,materialui">
   </a>
 </p>
 <ul>
@@ -64,7 +64,7 @@
 </ul>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,figma,canvas,idea,vscode,postman,linux,kubernetes,bash">
+    <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,figma,idea,vscode,postman,linux,kubernetes,bash">
   </a>
 </p>
 <br>
