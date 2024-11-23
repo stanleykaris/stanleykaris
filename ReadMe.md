@@ -2,11 +2,11 @@
 <h3 align="center">A Software Engineer and A DevOps engineer(AWS, Azure)</h3>
 <p align="center"><img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="gif" width="33%" /></p>
 
-<p align="left" width="100%"> <img src="https://komarev.com/ghpvc/?username=trapper99&label=Profile%20views&color=0e75b6&style=flat" alt="trapper99" /> </p>
+<p align="left" width="100%"> <img src="https://komarev.com/ghpvc/?username=stanleykaris&label=Profile%20views&color=0e75b6&style=flat" alt="trapper99" /> </p>
 
 ---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=trapper99" alt="trapper99" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stanleykaris" alt="stanleykaris" /></a> </p>
 
 <img align="right" alt="Coding" width="250" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <p align="left"> <a href="https://twitter.com/stanleykirigo" target="blank"><img src="https://img.shields.io/twitter/follow/stanleykirigo?logo=twitter&style=for-the-badge" alt="stanleykirigo" /></a> </p>
@@ -74,14 +74,14 @@
 <h3 align="left">My Stats: </h3>
 <p align="center" width="100%">
  
- [![trapper99's GitHub | Stats](https://stats.quira.sh/trapper99/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=trapper99)
+ [![trapper99's GitHub | Stats](https://stats.quira.sh/stanleykaris/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=trapper99)
  
 </p>
 
-[![trapper99's GitHub | Languages](https://stats.quine.sh/trapper99/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=trapper99)
+[![trapper99's GitHub | Languages](https://stats.quine.sh/stanleykaris/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=trapper99)
 
 ---
 
 <h3 align="left">Activity:</h3>
-<p><img src="https://github-readme-activity-graph.vercel.app/graph?username=trapper99&amp;custom_title=Stanley's%20GitHub%20Activity%20Graph&amp;bg_color=0D1117&amp;color=7F3FBF&amp;line=7F3FBF&amp;point=7F3FBF&amp;area_color=FFFFFF&amp;title_color=FFFFFF&amp;area=true" alt="Stanley's Graph">
+<p><img src="https://github-readme-activity-graph.vercel.app/graph?username=stanleykaris&amp;custom_title=Stanley's%20GitHub%20Activity%20Graph&amp;bg_color=0D1117&amp;color=7F3FBF&amp;line=7F3FBF&amp;point=7F3FBF&amp;area_color=FFFFFF&amp;title_color=FFFFFF&amp;area=true" alt="Stanley's Graph">
 <br><br></p>
