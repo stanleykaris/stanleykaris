@@ -78,7 +78,7 @@
  
 </p>
 
-[![stanleykaris's GitHub | Languages](https://stats.quine.sh/stanleykaris/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=stanleykaris)
+[![trapper99's GitHub | Languages Over Time](https://stats.quira.sh/trapper99/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=trapper99)
 
 ---
 
