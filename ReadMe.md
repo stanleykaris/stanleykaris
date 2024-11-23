@@ -32,7 +32,7 @@
 </ul>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,golang,java,nodejs,py,spring,flask,fastapi,nestjs">
+    <img src="https://skillicons.dev/icons?i=c,cs,golang,nodejs,py,flask,fastapi,nestjs">
   </a>
 </p>
 <ul>
