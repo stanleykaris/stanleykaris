@@ -74,7 +74,7 @@
 <h3 align="left">My Stats: </h3>
 <p align="center" width="100%">
  
- [![stanleykaris's GitHub | Stats](https://stats.quira.sh/stanleykaris/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=stanleykaris)
+[![trapper99's GitHub | Topics Over Time](https://stats.quira.sh/trapper99/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=trapper99)
  
 </p>
 
