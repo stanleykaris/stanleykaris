@@ -74,11 +74,11 @@
 <h3 align="left">My Stats: </h3>
 <p align="center" width="100%">
  
- [![trapper99's GitHub | Stats](https://stats.quira.sh/stanleykaris/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=trapper99)
+ [![stanleykaris's GitHub | Stats](https://stats.quira.sh/stanleykaris/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=stanleykaris)
  
 </p>
 
-[![trapper99's GitHub | Languages](https://stats.quine.sh/stanleykaris/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=trapper99)
+[![stanleykaris's GitHub | Languages](https://stats.quine.sh/stanleykaris/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=stanleykaris)
 
 ---
 
