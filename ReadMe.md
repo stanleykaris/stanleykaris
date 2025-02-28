@@ -48,7 +48,7 @@
 </ul>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,dynamodb">
+    <img src="https://skillicons.dev/icons?i=mongodb,mysql,dynamodb">
   </a>
 </p>
 <ul>
