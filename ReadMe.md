@@ -32,7 +32,7 @@
 </ul>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,golang,nodejs,py,flask,fastapi,nestjs">
+    <img src="https://skillicons.dev/icons?i=c,golang,nodejs,py,flask,fastapi,nestjs">
   </a>
 </p>
 <ul>
@@ -76,9 +76,11 @@
  
 [![trapper99's GitHub | Topics Over Time](https://stats.quira.sh/trapper99/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=trapper99)
  
-</p>
+
 
 [![trapper99's GitHub | Languages Over Time](https://stats.quira.sh/trapper99/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=trapper99)
+
+</p>
 
 ---
 
