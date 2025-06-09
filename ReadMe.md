@@ -77,7 +77,6 @@
 [![trapper99's GitHub | Topics Over Time](https://stats.quira.sh/trapper99/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=trapper99)
  
 
-
 [![trapper99's GitHub | Languages Over Time](https://stats.quira.sh/trapper99/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=trapper99)
 
 </p>
