@@ -40,7 +40,7 @@
 </ul>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,vue,nextjs,flutter,redux,tailwind,materialui">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,vue,nextjs,nuxt,flutter,redux,tailwind,materialui">
   </a>
 </p>
 <ul>
@@ -68,18 +68,6 @@
   </a>
 </p>
 <br>
-
----
-
-<h3 align="left">My Stats: </h3>
-<p align="center" width="100%">
- 
-[![trapper99's GitHub | Topics Over Time](https://stats.quira.sh/trapper99/topics-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=trapper99)
- 
-
-[![trapper99's GitHub | Languages Over Time](https://stats.quira.sh/trapper99/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=trapper99)
-
-</p>
 
 ---
 
