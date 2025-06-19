@@ -9,7 +9,7 @@
 ## TL;DR
 
 - 🛠️ Software & DevOps Engineer specializing in AWS, Azure, and full-stack development.
-- 🏗️ Building: Toll application.
+- 🏗️ Building: Ride Sharing Application.
 - 💬 Ask me about cloud architecture & full stack.
 - 📫 Contact: stanleykariuki1999@gmail.com
 
@@ -105,8 +105,8 @@ I am passionate about building scalable backend systems, cloud architectures, an
 
 ## ✨ Fun Facts
 
-- 🎸 Plays guitar and loves Afrobeat music.
-- 🌍 Traveled to 10+ countries (and counting!)
+- ☯️ I'm an Anime Weeb and a Movie buff.
+- 🌍 Would like to tour the world one day after a successful startup.
 - 🧑‍💻 Always learning something new—currently diving into AI/ML cloud integrations.
 
 ---
