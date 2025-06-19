@@ -29,14 +29,6 @@ I am passionate about building scalable backend systems, cloud architectures, an
 
 ---
 
-## 🌟 Featured Projects
-
-- [Toll Application](https://github.com/stanleykaris/toll-app): Smart tolling with modern cloud-native stack.
-- [DevOps Templates](https://github.com/stanleykaris/devops-templates): IaC and automation recipes for AWS/Azure.
-- [Realtime Chat](https://github.com/stanleykaris/realtime-chat): Secure, scalable chat app with Node.js & WebSockets.
-
----
-
 ## 🛠 Tech Stack
 
 **Backend:**  
