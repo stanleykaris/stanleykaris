@@ -1,76 +1,114 @@
-<h1 align="center">Hi 👋, I'm Stanley Kariuki</h1>
-<h3 align="center">A Software Engineer and A DevOps engineer(AWS, Azure)</h3>
-<p align="center"><img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="gif" width="33%" /></p>
+# Hi 👋, I'm Stanley Kariuki
 
-<p align="left" width="100%"> <img src="https://komarev.com/ghpvc/?username=stanleykaris&label=Profile%20views&color=0e75b6&style=flat" alt="trapper99" /> </p>
+![Banner](https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=stanleykaris&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+
+## TL;DR
+
+- 🛠️ Software & DevOps Engineer specializing in AWS, Azure, and full-stack development.
+- 🏗️ Building: Toll application.
+- 💬 Ask me about cloud architecture & full stack.
+- 📫 Contact: stanleykariuki1999@gmail.com
 
 ---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stanleykaris" alt="stanleykaris" /></a> </p>
+## 🏆 Achievements
 
-<img align="right" alt="Coding" width="250" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-<p align="left"> <a href="https://twitter.com/stanleykirigo" target="blank"><img src="https://img.shields.io/twitter/follow/stanleykirigo?logo=twitter&style=for-the-badge" alt="stanleykirigo" /></a> </p>
-
-- 🔭 I’m currently working on **Toll application**
-
-- 💬 Ask me about **Full stack development and cloud architecture**
-
-- 📫 How to reach me **stanleykariuki1999@gmail.com**
-
-<a href="https://developers.google.com/profile/badges/events/io/2024/registered" target="blank"></a>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/stanleykirigo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="stanleykirigo" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/stanley kariuki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stanley kariuki" height="30" width="40" /></a>
-</p>
-
----
-<h3 align="left">Languages and Tools:</h3>
-<ul>
-<li>Backend</li>
-</ul>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,golang,nodejs,py,flask,fastapi,nestjs">
-  </a>
-</p>
-<ul>
-<li>Frontend</li>
-</ul>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,vue,nextjs,nuxt,flutter,redux,tailwind,materialui">
-  </a>
-</p>
-<ul>
-<li>Database</li>
-</ul>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,dynamodb">
-  </a>
-</p>
-<ul>
-<li>Cloud Servers</li>
-</ul>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,aws,firebase,cloudflare">
-  </a>
-</p>
-<ul>
-<li>Tools</li>
-</ul>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,figma,idea,vscode,postman,linux,kubernetes,bash">
-  </a>
-</p>
-<br>
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=stanleykaris&margin-w=5&theme=gruvbox&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-<h3 align="left">Activity:</h3>
-<p><img src="https://github-readme-activity-graph.vercel.app/graph?username=stanleykaris&amp;custom_title=Stanley's%20GitHub%20Activity%20Graph&amp;bg_color=0D1117&amp;color=7F3FBF&amp;line=7F3FBF&amp;point=7F3FBF&amp;area_color=FFFFFF&amp;title_color=FFFFFF&amp;area=true" alt="Stanley's Graph">
-<br><br></p>
+## 🚀 About Me
+
+I am passionate about building scalable backend systems, cloud architectures, and beautiful frontends. I thrive at the intersection of development and operations, aiming to deliver robust, cloud-native solutions.
+
+> “Simplicity is the soul of efficiency.” — Austin Freeman
+
+---
+
+## 🌟 Featured Projects
+
+- [Toll Application](https://github.com/stanleykaris/toll-app): Smart tolling with modern cloud-native stack.
+- [DevOps Templates](https://github.com/stanleykaris/devops-templates): IaC and automation recipes for AWS/Azure.
+- [Realtime Chat](https://github.com/stanleykaris/realtime-chat): Secure, scalable chat app with Node.js & WebSockets.
+
+---
+
+## 🛠 Tech Stack
+
+**Backend:**  
+![C](https://skillicons.dev/icons?i=c)
+![Go](https://skillicons.dev/icons?i=golang)
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Python](https://skillicons.dev/icons?i=py)
+![Flask](https://skillicons.dev/icons?i=flask)
+![FastAPI](https://skillicons.dev/icons?i=fastapi)
+![NestJS](https://skillicons.dev/icons?i=nestjs)
+
+**Frontend:**  
+![TypeScript](https://skillicons.dev/icons?i=ts)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![React](https://skillicons.dev/icons?i=react)
+![Vue](https://skillicons.dev/icons?i=vue)
+![Next.js](https://skillicons.dev/icons?i=nextjs)
+![Nuxt.js](https://skillicons.dev/icons?i=nuxt)
+![Flutter](https://skillicons.dev/icons?i=flutter)
+![Redux](https://skillicons.dev/icons?i=redux)
+![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
+![Material UI](https://skillicons.dev/icons?i=materialui)
+
+**Database:**  
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
+![MySQL](https://skillicons.dev/icons?i=mysql)
+![DynamoDB](https://skillicons.dev/icons?i=dynamodb)
+
+**Cloud:**  
+![Azure](https://skillicons.dev/icons?i=azure)
+![AWS](https://skillicons.dev/icons?i=aws)
+![Firebase](https://skillicons.dev/icons?i=firebase)
+![Cloudflare](https://skillicons.dev/icons?i=cloudflare)
+
+**Tools:**  
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![GitHub Actions](https://skillicons.dev/icons?i=githubactions)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Figma](https://skillicons.dev/icons?i=figma)
+![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)
+![VS Code](https://skillicons.dev/icons?i=vscode)
+![Postman](https://skillicons.dev/icons?i=postman)
+![Linux](https://skillicons.dev/icons?i=linux)
+![Kubernetes](https://skillicons.dev/icons?i=kubernetes)
+![Bash](https://skillicons.dev/icons?i=bash)
+
+---
+
+## 📈 GitHub Activity
+
+![Stanley's GitHub Stats](https://github-readme-stats.vercel.app/api?username=stanleykaris&show_icons=true&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stanleykaris&layout=compact&theme=gruvbox)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=stanleykaris&custom_title=Stanley's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+---
+
+## 🤝 Connect with Me
+
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/stanleykirigo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/stanleykariuki)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:stanleykariuki1999@gmail.com)
+
+---
+
+## ✨ Fun Facts
+
+- 🎸 Plays guitar and loves Afrobeat music.
+- 🌍 Traveled to 10+ countries (and counting!)
+- 🧑‍💻 Always learning something new—currently diving into AI/ML cloud integrations.
+
+---
+
+<sub>Last updated: 2025-06-19 • Inspired by universal open-source standards and a love for building cool stuff 🚀</sub>
