@@ -56,6 +56,7 @@ I am passionate about building scalable backend systems, cloud architectures, an
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
 ![MySQL](https://skillicons.dev/icons?i=mysql)
 ![DynamoDB](https://skillicons.dev/icons?i=dynamodb)
+![PostgreSQL](https://skillicons.dev/icons?i=postgresql)
 
 **Cloud:**  
 ![Azure](https://skillicons.dev/icons?i=azure)
